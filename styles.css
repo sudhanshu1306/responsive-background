@@ -1,0 +1,17 @@
+body{
+  background: url(background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+h1{
+  color: #d7385e;
+}
+h2{
+  color: #590995;
+}
+.bottom-container{
+  margin-top: 90%;
+}
